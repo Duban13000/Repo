@@ -3,3 +3,11 @@ body{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
+.flex-header, .flex-footer{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+.header-title, .footer-content{
+    color:white;
+}
