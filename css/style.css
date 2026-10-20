@@ -11,3 +11,7 @@ body{
 .header-title, .footer-content{
     color:white;
 }
+#imgFix{
+    width: 60%;
+    margin-bottom: 50px;
+}
